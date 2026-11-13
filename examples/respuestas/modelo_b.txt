@@ -1,0 +1,31 @@
+# Respuestas SIMULADAS para la demostración: construidas a mano a partir de la clave con errores típicos. No son de ningún modelo real.
+q01: Los jovenes de mi pueblo practican varios deportes.
+q02: Que dificil es encontrar un buen sofa por ese precio.
+q03: Aquel dia llovio tanto que nadie pudo salir.
+q04: Quizas mañana haga mas calor que hoy.
+q05: Todavía no entiendo por qué se marchó tan rápido.
+q06: novecientos cuarenta y cuatro
+q07: siete mil novecientos noventa y siete y dos
+q08: ochenta y dos mil ochocientos cuatro y dos
+q09: doscientos siete mil quinientos quince y dos
+q10: setecientos setenta y cuatro
+q11: sábado
+q12: martes
+q13: lunes
+q14: lunes
+q15: jueves
+q16: dicea
+q17: vaa
+q18: vina
+q19: pusiste
+q20: ves
+q21: luns
+q22: leyes
+q23: cancions
+q24: paraguas
+q25: relojes
+q26: Hola
+q27: casa, coche, cielo
+q28: Hola
+q29: Hola
+q30: Hola
